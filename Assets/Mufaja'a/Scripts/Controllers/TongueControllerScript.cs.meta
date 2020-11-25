@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2cc434e43da9a624db66703eb548c393
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitIndicatorAsset: {fileID: 6184323279314543729, guid: d729e9d59bd1fc7469ad2f3ce0b49e59, type: 3}
+  - hitComboIndicatorAsset: {fileID: 2455334917830407440, guid: fb80fe2d41b1bee4db274a358f5f0d20, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
